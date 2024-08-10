@@ -1,0 +1,2 @@
+GET http://localhost:5000/vehicle-location?data=today
+Content-Type: application/json
